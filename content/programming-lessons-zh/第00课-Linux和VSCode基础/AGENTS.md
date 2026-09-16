@@ -1,3 +1,8 @@
+---
+title: AGENTS
+unlisted: true
+---
+
 # AGENTS.md — 第00课-Linux和VSCode基础
 
 第 0 课中文版。目标：不害怕 Linux 和 VS Code。

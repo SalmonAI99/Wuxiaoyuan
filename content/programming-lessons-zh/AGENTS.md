@@ -1,3 +1,8 @@
+---
+title: AGENTS
+unlisted: true
+---
+
 # AGENTS.md — programming-lessons-zh
 
 给弟弟的编程入门课中文版。读者是中国小学生，完全零基础。目标：Ubuntu 24.04 LTS。

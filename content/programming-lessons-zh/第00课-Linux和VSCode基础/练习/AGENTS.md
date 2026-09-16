@@ -1,3 +1,8 @@
+---
+title: AGENTS
+unlisted: true
+---
+
 # AGENTS.md — 练习
 
 这里只放第 0 课练习题。
