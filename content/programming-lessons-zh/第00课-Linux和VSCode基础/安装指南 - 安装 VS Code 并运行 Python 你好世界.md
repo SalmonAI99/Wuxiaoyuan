@@ -7,6 +7,7 @@ tags:
   - python
   - hello-world
 lesson: 0
+difficulty: "⭐⭐⭐"
 os: "Ubuntu 24.04 LTS"
 title: "安装指南 - 安装 VS Code 并运行 Python 你好世界"
 type: setup-guide

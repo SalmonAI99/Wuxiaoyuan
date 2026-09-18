@@ -255,6 +255,7 @@ plugins:
     options:
       includeAll: false
       includedProperties:
+        - difficulty
         - description
         - tags
         - aliases
