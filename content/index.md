@@ -19,6 +19,7 @@ title: 武校园
 ## 附录：工具指南
 
 - [[附录/Handy说话写邮件|用 Handy 说话写邮件]]（Ubuntu 24.04 安装 + 说话写邮件）
+- [[附录/在 Ubuntu 上运行 History App|在 Ubuntu 上运行 History App]]（安装 Docker 并打开网站）
 
 ## 数学课（五年级）
 
